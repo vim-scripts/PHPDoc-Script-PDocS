@@ -10,11 +10,11 @@
 " another but with this script you will be able to generate PHPDoc
 " while you are typing source-code.
 "
-" Release:		0.25
+" Release:		0.26
 "
 " Tested:		VIM 6.1
 " 
-" Version:		$Id: phpdoc.vim,v 1.5 2003/01/01 20:00:55 kama Exp $
+" Version:		$Id: phpdoc.vim,v 1.8 2003/01/05 14:59:41 kama Exp $
 " 
 " Author:		Karl Heinz Marbaise <khmarbaise@gmx.de>
 "
@@ -94,7 +94,6 @@ if g:foo_DefineAutoCommands
 	autocmd BufEnter *.php inoremap ; ;<Esc>:call ClassVar()<CR>a
 	autocmd BufLeave *.php iunmap {
 	autocmd BufLeave *.php iunmap ;
-	autocmd BufLeave *.php iunmap @ 
 	" Keep your braces balanced!}}}
 endif " g:foo_DefineAutoCommands
 " 

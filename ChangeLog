@@ -1,3 +1,18 @@
+2003-01-05 14:59  kama
+
+	* README, phpdoc.vim: 
+	- Update Release 
+
+2003-01-05 14:58  kama
+
+	* phpdoc.vim: 
+	- Removed unneeded BufLeave 
+
+2003-01-05 10:51  kama
+
+	* .cvsignore, README, crcl.sh, phpdoc.vim: 
+	- changed CR/LF into Unix LF 
+
 2003-01-01 20:00  kama
 
 	* README, phpdoc.vim (utags: PHPDOCVIM_R0_25): 
