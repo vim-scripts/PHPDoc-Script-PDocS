@@ -1,0 +1,59 @@
+2003-01-01 20:00  kama
+
+	* README, phpdoc.vim (utags: PHPDOCVIM_R0_25): 
+	- Updated Release 
+
+2003-01-01 19:59  kama
+
+	* .cvsignore (tags: PHPDOCVIM_R0_25), ChangeLog: 
+	- Removed erronous added ChangeLog 
+	- Ignoring via ignore file 
+
+2003-01-01 19:56  kama
+
+	* ChangeLog, README, crcl.sh (tags: PHPDOCVIM_R0_25), phpdoc.vim
+	(utags: PHPDOCVIM_R0_20): 
+	- New Files ChangeLog, README and 
+	  Shell-Script for creating ChangeLog 
+	- Updated Release.  
+
+2003-01-01 19:35  kama
+
+	* phpdoc.vim (tags: PHPDOCVIM_R0_12): 
+	- Changed to Unix lf instead of dosish 
+	- Releae updated 0.12 
+
+2003-01-01 17:09  kama
+
+	* phpdoc.vim (tags: PHPDOCVIM_R0_11): 
+	- Updated Release 
+
+2003-01-01 17:03  kama
+
+	* phpdocvim.vim: 
+	- Skript renamed from phpdocvim to phpdoc and 
+	  Shortage name created.  
+
+2003-01-01 17:03  kama
+
+	* phpdoc.vim: 
+	- Skript renamed from phpdocvim to phpdoc and 
+	  created abreviation.  
+
+2003-01-01 16:55  kama
+
+	* phpdocvim.vim (tags: PHPDOCVIM_R0_10): 
+	- Improved Documentation 
+	- Improved Functionality 
+	- Now working with functions, classes and 
+	  Class vars (prefixes now correctly handled.) 
+
+2003-01-01 13:58  kama
+
+	* phpdocvim.vim: Initial revision 
+
+2003-01-01 13:58  kama
+
+	* phpdocvim.vim (tags: PHPDOCVIM_IMPORT_RELEASE): 
+	- Import PHPDOCvim Project 
+

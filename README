@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=520
+
+PHPDoc Script (PDocS) supports you in writing PHPDoc like comments while creating PHP-Source code. You don't need to copy/paste the 
+Doc block over and over so you can create them while writing the source
+code. This will result in better commets...;-)
+The Script currently supports only one Styleguide.
+
+I hope it helps...
+
+I have created the script on Vim 6.1, but i think it should be running well
+on Vim 6.0 too. I hope so...
